@@ -4,7 +4,7 @@
  * @author Lewis Brown
  * @version 9.17.2019
  */
-import.java.util.Scanner
+import java.util.Scanner
 public class ChatRoom
 {
   public static void main( String args[] )
