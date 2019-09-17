@@ -13,7 +13,7 @@ public class ChatRoom
   int EnterRoom;
   
   System.out.println( "Would you like to enter the room? (1 to enter, 0 to leave" )
-  while ( EnterRoom = 1 )
+  while ( EnterRoom == 1 )
   }
 
 }
