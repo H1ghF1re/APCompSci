@@ -57,5 +57,14 @@ public class Teacher
         return roomNumber;
         
     }
+    //End Processing Methods
+    
+    //Start toString method
+    public String toString()
+    {
+        String str = "You chose: " + name + "\n They're in room " + roomNumber + "\n Their catchphrase is: " + catchphrase );
+        return str;
+        
+    }
     
 }
