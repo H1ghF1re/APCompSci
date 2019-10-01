@@ -34,9 +34,27 @@ public class Teacher
         
     }
     
-    public void setCatchphrase ( String newCatchphrase )
+    public void setCatchphrase( String newCatchphrase )
     {
         catchphrase = newCatchphrase;
+        
+    }
+    
+    public String getCatchphrase()
+    {
+        return catchphrase;
+        
+    }
+    
+    public void setRoomNumber( int newRoomNumber )
+    {
+        roomNumber = newRoomNumber;
+        
+    }
+    
+    public int getRoomNumber()
+    {
+        return roomNumber;
         
     }
     
